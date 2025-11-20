@@ -18,9 +18,9 @@ This Power BI report is designed to:
 The report consists of **two pages**:
 
 ## 📄 **Page 1: Hospital Analysis**
-[Hospital Analysis](https://1drv.ms/i/c/0a9c8372bc9e9c41/IQBqGY02RVhjTJLlYwWplR-AAbEcqYM65qvJKlN8RN-OlSk?e=zWzdMQ)
 
 This page compares performance across **different Hospital IDs**.
+[Hospital Analysis](https://1drv.ms/i/c/0a9c8372bc9e9c41/IQBqGY02RVhjTJLlYwWplR-AAbEcqYM65qvJKlN8RN-OlSk?e=zWzdMQ)
 
 ### 🔹 **KPIs Visualized**
 
@@ -35,11 +35,11 @@ This page compares performance across **different Hospital IDs**.
 * Helps identify high- and low-performing hospitals.
 * Assists in monitoring patient volumes.
 
----
 
 ## 📄 **Page 2: Yearly Trend Analysis**
 
 This page shows a **year-wise trend** for clinical performance metrics.
+[Yearly Trend Analysis](https://1drv.ms/i/c/0a9c8372bc9e9c41/IQCIyQxMz23sRZNXC12YZCmYARgyRQrTQZPSCySDKDASofg?e=ioyNgi)
 
 ### 🔹 **KPIs Visualized**
 
@@ -54,7 +54,6 @@ This page shows a **year-wise trend** for clinical performance metrics.
 * Identifies years with higher emergency or infection spikes.
 * Supports long-term planning, forecasting, and performance evaluation.
 
----
 
 ## 🛠️ **Tools & Technologies Used**
 
@@ -65,7 +64,7 @@ This page shows a **year-wise trend** for clinical performance metrics.
 | **DAX**              | Calculated measures and KPIs       |
 | **SQL (Optional)**   | Querying and preparing data        |
 
----
+
 
 ## 📊 **Dashboard Features**
 
@@ -75,7 +74,6 @@ This page shows a **year-wise trend** for clinical performance metrics.
 * Interactive filters
 * Two-page structured professional layout
 
----
 
 ## 📁 **Project Files Included**
 
@@ -83,7 +81,6 @@ This page shows a **year-wise trend** for clinical performance metrics.
 * `dataset.csv` or SQL scripts (if applicable)
 * README documentation (this file)
 
----
 
 ## 🚀 **How to Use**
 
@@ -92,18 +89,8 @@ This page shows a **year-wise trend** for clinical performance metrics.
 3. Load the dataset if prompted
 4. Explore hospital-based and year-based insights
 
----
 
 ## ✨ **Outcome**
 
 This dashboard enables healthcare teams to monitor critical metrics, track performance over time, identify risks, and improve patient care strategies through data-driven decisions.
 
----
-
-If you want, I can also create:
-
-✔ GitHub folder structure
-✔ A professional cover image/banner for your repository
-✔ Short LinkedIn post content
-
-Would you like that?
